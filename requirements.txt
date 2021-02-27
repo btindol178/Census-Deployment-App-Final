@@ -7,7 +7,6 @@ pandas
 dash_bootstrap_components
 click
 Cython
-hardet
 decorator
 nbformat
 numpy
