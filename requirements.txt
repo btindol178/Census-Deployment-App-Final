@@ -17,5 +17,4 @@ requests
 urllib3
 Werkzeug
 layouts
-app 
 callback
