@@ -20,8 +20,3 @@ pip install Werkzeug
 pip install layouts
 pip install app 
 pip install callback
-pip install sqlalchemy
-pip install mysql-connector-python
-pip install pymysql
-pip install flask 
-pip install --upgrade pip
