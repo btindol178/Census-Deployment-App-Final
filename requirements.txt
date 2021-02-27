@@ -1,0 +1,27 @@
+pip install plotly
+pip install dash
+pip install dash-renderer
+pip install dash-html-components
+pip install dash-core-components
+pip install pandas
+pip install dash_bootstrap_components
+pip install click
+pip install Cython
+pip install hardet
+pip install decorator
+pip install nbformat
+pip install numpy
+pip install pandas-datareader
+pip install python-dateutil
+pip install pytz
+pip install requests
+pip install urllib3
+pip install Werkzeug
+pip install layouts
+pip install app 
+pip install callback
+pip install sqlalchemy
+pip install mysql-connector-python
+pip install pymysql
+pip install flask 
+pip install --upgrade pip
